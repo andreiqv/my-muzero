@@ -4,7 +4,7 @@
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 </p>
 
-forked from https://github.com/werner-duvaud/muzero-general/blob/master/games/connect4.py
+forked from https://github.com/werner-duvaud/muzero-general/
 
 # MuZero General
 
